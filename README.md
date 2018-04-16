@@ -3,7 +3,7 @@ Applying temporal data mining to the Building Data Genome
 
 This repository is a collection of temporal feature mining techniques implemented in the following publication:
 
-Mining electrical meter data to predict principal building use, performance class, and operations strategy for hundreds of non-residential buildings, Submitted to Energy and Buildings in Sept. 2017
+[Miller, C., & Meggers, F. (2017). Mining electrical meter data to predict principal building use, performance class, and operations strategy for hundreds of non-residential buildings. Energy and Buildings, 156(Supplement C), 360–373. https://doi.org/10.1016/j.enbuild.2017.09.056](https://www.researchgate.net/publication/320244109_Mining_electrical_meter_data_to_predict_principal_building_use_performance_class_and_operations_strategy_for_hundreds_of_non-residential_buildings)
 
 These notebooks use the [Building Data Genome Project data](https://github.com/buds-lab/the-building-data-genome-project) set:
 
