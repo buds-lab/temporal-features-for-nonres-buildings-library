@@ -7,7 +7,8 @@ This repository is a collection of temporal feature mining techniques implemente
 
 These notebooks use the [Building Data Genome Project data](https://github.com/buds-lab/the-building-data-genome-project) set:
 
-[Clayton Miller, Forrest Meggers, The Building Data Genome Project: An open, public data set from non-residential building electrical meters, Energy Procedia, Volume 122, September 2017, Pages 439-444, ISSN 1876-6102, https://doi.org/10.1016/j.egypro.2017.07.400.](http://www.sciencedirect.com/science/article/pii/S1876610217330047) 
+[Miller, C., & Meggers, F. (2017). The Building Data Genome Project: An open, public data set from non-residential building electrical meters. Energy Procedia, 122, 439–444. https://doi.org/10.1016/j.egypro.2017.07.400
+](http://www.sciencedirect.com/science/article/pii/S1876610217330047) 
 
 Using the notebooks
 ------------
